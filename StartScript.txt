@@ -1,0 +1,9 @@
+Set-ExplorerOptions -showProtectedOSFiles -showFileExtensions
+Enable-RemoteDesktop
+cinst adobereader
+cinst google-chrome-x64
+cinst nugetpackageexplorer
+cinst sysinternals
+cinst fiddler4
+cinst adobeshockwave
+cinst java
